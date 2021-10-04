@@ -9,7 +9,6 @@ public class Map {
     public static void main(String[] args)
     {
         HashMap<Integer,String> hmap=new HashMap<Integer,String>();
-        hmap.put(1,"abc");
         hmap.put(2,"def");
         hmap.put(4,"dar");
         hmap.put(3,"abc");
