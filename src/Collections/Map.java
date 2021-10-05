@@ -12,7 +12,7 @@ public class Map {
         hmap.put(1,"ahai");
         hmap.put(2,"def");
         hmap.put(4,"dar");
-        hmap.put(3,"abc");
+        hmap.put(3,"ab4");
        // hmap.put(3,"bhj");
         hmap.put(1,"abc");
         System.out.println("hmap="+hmap);
